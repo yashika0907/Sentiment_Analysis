@@ -1,0 +1,1 @@
+Put reviews.csv here (columns: text,label). See README.md for how to create it.
